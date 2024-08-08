@@ -1,0 +1,99 @@
+
+
+body{
+
+    background-color: antiquewhite;
+}
+
+.ovalo{
+    margin-top: 2em;
+    margin-left:33em ;
+    width: 18em;
+    border-radius: 200px;
+    border-style: solid;
+    border-color: rgb(29, 11, 11);
+    background-color: rgb(250, 245, 245);
+}
+
+
+#logo{
+   
+    margin-top: 1em;
+    margin-left:2em ;
+    width: 15em;
+    height: 5em;
+}
+h3{
+    margin-left:20em ;
+}
+
+
+
+#tres{
+    margin-left: 2em;
+    width: 15em;
+    height: 15em;
+  margin-top: -65em;
+    border-radius: 300px;
+    
+  
+}
+h1{
+
+    margin-left:5em;
+    padding: 2em;
+}
+.margen{
+
+    width: 41.69em;
+    height: 50em;
+    border-radius: 5px;
+}
+p{
+   
+margin-left: 20em;
+margin-right: 10em;
+}
+.blanco{
+
+
+    width: 55em;
+    height: 49.5em;
+    background-color: rgb(145, 143, 143);
+    border-radius: 5px;
+}
+#cuatro{
+    
+    width: 28.5em;
+    height: 49.5em;
+   margin-top: -26.5em;
+    margin-left: 55em;
+    border-radius: 5px;
+}
+#circulo{
+
+    margin-top: -27em;
+}
+#cinco{
+    margin-left: 2em;
+    width: 15em;
+    height: 15em;
+    border-radius: 300px;
+    margin-top: -22em;
+   
+}
+#seis{
+    margin-left: 2em;
+    width: 15em;
+    height: 15em;
+    border-radius: 300px;
+    margin-top: -18em;
+    
+}
+.pie{
+background-color: black;
+width: 100em;
+height: 10em;
+ border-radius: 5px;
+
+}

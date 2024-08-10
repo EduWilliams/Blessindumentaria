@@ -129,6 +129,8 @@ h1,p{
 }
 p{
 margin-top: 5em;
+margin-left: 5em;
+margin-right: 5em;
 }
 #cuatro{
     margin-top: -150em;

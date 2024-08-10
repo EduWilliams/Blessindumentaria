@@ -248,7 +248,7 @@ textarea{
     margin-left: 3.5em;
 }
 #email{
-    margin-left: 5em;
+    margin-left: 3.5em;
 }
 #input{
 
@@ -259,5 +259,8 @@ textarea{
     margin-left: 4em;
     background-color: green;
     width: 15em;
+}
+#contactanos{
+    font-size: 30px;
 }
 }

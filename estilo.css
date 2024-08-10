@@ -252,15 +252,15 @@ textarea{
 }
 #input{
 
-    width: 20em;
-    height: 2em;
+    width: 30em;
+    height: 2.5em;
 }
 #enviar{
-    margin-left: -2em;
+    margin-left: -20em;
     background-color: green;
     width: 15em;
 }
 #contactanos{
-    font-size: 30px;
+    font-size: 50px;
 }
 }

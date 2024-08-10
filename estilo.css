@@ -252,11 +252,11 @@ textarea{
 }
 #input{
 
-    width: 30em;
+    width: 25em;
     height: 2.5em;
 }
 #enviar{
-  margin-right: 10em;
+  margin-right: 5em;
     background-color: green;
     width: 15em;
 }

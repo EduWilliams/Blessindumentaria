@@ -111,10 +111,7 @@ height: 10em;
 }
 @media(max-width: 576px) {
 
-    body{
-
-        font-size: 10px;
-    }
+    
     #logo{
 
         margin-top: 3em;

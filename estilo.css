@@ -242,10 +242,10 @@ textarea{
 #margen{
     
     height: 5em;
-    margin-left: 2em;
+    margin-left: 3.5em;
 }
 #nombre{
-    margin-left: 2em;
+    margin-left: 3.5em;
 }
 #email{
     margin-left: 5em;
@@ -254,5 +254,10 @@ textarea{
 
     width: 10em;
     height: 2em;
+}
+#enviar{
+    margin-left: 4em;
+    background-color: green;
+    width: 15em;
 }
 }

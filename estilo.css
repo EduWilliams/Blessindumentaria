@@ -162,7 +162,14 @@ margin-right: 3em;
 }
 #cinco{
     margin-top: -8em;
+    width: 30em;
+    height: 30em;
 }
+#seis{
+    width: 30em;
+    height: 30em;
+}
+
 .pie{
     width: 90em;
 }

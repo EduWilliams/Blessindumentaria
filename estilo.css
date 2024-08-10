@@ -163,9 +163,9 @@ margin-right: 3em;
 #tres{
     width: 30em;
     height: 30em;
-   margin-top: -15em;
-
-    margin-top: 0em;
+   margin-top: 15em;
+margin-left: -5em;
+   
 }
 #cinco{
     margin-top: -40em;

@@ -140,7 +140,7 @@ h1{
 }
 p{
 
-margin-left: 10em;
+margin-left: 25em;
 margin-right: 3em;
 }
 #circulo{
@@ -163,7 +163,7 @@ margin-right: 3em;
 #tres{
     width: 30em;
     height: 30em;
-   
+   margin-top: -15em;
 
     margin-top: 0em;
 }

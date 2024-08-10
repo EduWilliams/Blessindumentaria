@@ -128,7 +128,7 @@ h1,p{
     font-size: 40px;
 }
 h1{
-    margin-left: 5em;
+    margin-left: 12em;
 }
 p{
 
@@ -136,7 +136,7 @@ margin-left: 10em;
 margin-right: 3em;
 }
 #circulo{
-    margin-top: 1em;
+    margin-top: 0em;
 
 }
 #cuatro{
@@ -154,7 +154,10 @@ margin-right: 3em;
 }
 #tres{
 
-    margin-left: 5em;
+    margin-top: 10em;
+}
+#cinco{
+    margin-top: -5em;
 }
 .pie{
     width: 90em;

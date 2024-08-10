@@ -125,15 +125,19 @@ h3{
 }
 h1,p{
 
-    font-size: 30px;
+    font-size: 40px;
 }
 p{
-margin-top: 10em;
+
 margin-left: 10em;
 margin-right: 5em;
 }
+#circulo{
+    margin-top: 15em;
+
+}
 #cuatro{
-    margin-top: -190em;
+    margin-top: -230em;
     border-radius: 20px;
     margin-left: 50em;
     height: 60em;

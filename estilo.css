@@ -118,6 +118,7 @@ height: 10em;
     padding: 2em;
     height: 60em;
     width: 60em;
+    border-radius: 20px;
 }
 h3{
     margin-left: 0em;
@@ -128,6 +129,7 @@ h1,p{
 }
 #tres{
     margin-top: -3em;
+    border-radius: 20px;
 
 }
 

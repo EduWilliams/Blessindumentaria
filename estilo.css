@@ -250,4 +250,9 @@ textarea{
 #email{
     margin-left: 5em;
 }
+#input{
+
+    width: 10em;
+    height: 2em;
+}
 }

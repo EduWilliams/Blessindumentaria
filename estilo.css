@@ -146,7 +146,7 @@ margin-right: 3em;
     border-radius: 20px;
   margin-left: 0em;
     height: 60em;
-    width: 40em;
+    width: 35em;
 
 }
 .blanco{
@@ -157,11 +157,12 @@ margin-right: 3em;
 #tres{
     width: 30em;
     height: 30em;
+    margin-left: 2em;
 
-    margin-top: -8em;
+    margin-top: 0em;
 }
 #cinco{
-    margin-top: -8em;
+    margin-top: -18em;
     width: 30em;
     height: 30em;
 }

@@ -127,12 +127,15 @@ h1,p{
 
     font-size: 30px;
 }
+p{
+margin-top: 5em;
+}
 #cuatro{
-    margin-top: -100em;
+    margin-top: -150em;
     border-radius: 20px;
     margin-left: 50em;
     height: 60em;
-    width: 50em;
+    width: 40em;
 
 }
 .blanco{
@@ -140,6 +143,12 @@ h1,p{
     width: 90em;
     height: 90em;
 }
+#tres{
 
+    margin-left: 5em;
+}
+.pie{
+    width: 90em;
+}
 
 }

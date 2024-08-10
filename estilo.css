@@ -203,7 +203,7 @@ margin-right: 3em;
 }
 .blanco{
     margin-top: 0em;
-    width: 100em;
+    width:95em;
     height: 80em;
 }
 #tres{
@@ -225,14 +225,14 @@ margin-left: -5em;
 }
 
 .pie{
-    width: 100em;
+    width: 95em;
     height: 10em;
 }
 .form{
 
-    margin-top: 140em;
+    margin-top: 120em;
     margin-left: 0em;
-    width: 100em;
+    width: 95em;
     height: 110em;
 
 }
@@ -242,6 +242,12 @@ textarea{
 #margen{
     width: 50em;
     height: 5em;
+    margin-left: 5em;
 }
-
+#nombre{
+    margin-left: 5em;
+}
+#email{
+    margin-left: 5em;
+}
 }

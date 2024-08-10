@@ -127,17 +127,20 @@ h1,p{
 
     font-size: 40px;
 }
+h1{
+    margin-left: 30em;
+}
 p{
 
 margin-left: 10em;
 margin-right: 5em;
 }
 #circulo{
-    margin-top: 15em;
+    margin-top: 5em;
 
 }
 #cuatro{
-    margin-top: -230em;
+    margin-top: -215em;
     border-radius: 20px;
     margin-left: 50em;
     height: 60em;

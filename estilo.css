@@ -92,11 +92,55 @@ margin-right: 10em;
 }
 .pie{
 background-color: black;
-width: 100em;
-height: 10em;
+width: 83.8em;
+height: 5em;
  border-radius: 5px;
 
 }
+#contactanos{
+
+    margin-top: -1em;
+    margin-left: 10em;
+}
+.form{
+    margin-top: 5em;
+    margin-left: 16em;
+    background-color: rgb(199, 203, 207);
+    width: 50em;
+    height: 50em;
+    justify-content: center;
+    border-style: solid;
+    border-color: black;
+    border: 2px;
+}
+label{
+    padding: 1em;
+}
+#margen{
+    margin-left: 15em;
+    border-radius: 60px;
+}
+#nombre{
+
+    margin-left: 15em;
+    border-radius: 60px;
+}
+#email{
+    margin-left: 16.5em;
+    border-radius: 60px;
+}
+textarea{
+    width: 40em;
+    height: 15em;
+    margin-left: -15em;
+    border-radius: 60px;
+    justify-content: center;
+}
+#enviar{
+
+    margin-left: 5em;
+}
+
 
 @media(max-width: 1200px) {
   

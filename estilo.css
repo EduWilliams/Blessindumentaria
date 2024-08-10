@@ -114,20 +114,20 @@ height: 10em;
 .margen{
 
 
-    margin-left: 30em;
+    margin-left: 25em;
     padding: 2em;
     height: 60em;
     width: 60em;
     border-radius: 20px;
 }
 h3{
-    margin-left: 0em;
+    margin-left: 10em;
 }
 h1,p{
 
-    font-size: 40px;
+    font-size: 20px;
 }
-#tres{
+#cuatro{
     margin-top: -3em;
     border-radius: 20px;
 

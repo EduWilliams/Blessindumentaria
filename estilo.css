@@ -114,10 +114,17 @@ height: 10em;
 .margen{
 
 
-    margin-left: 20em;
+    margin-left: 30em;
     padding: 2em;
     height: 60em;
-    width: 50em;
+    width: 60em;
+}
+h3{
+    margin-left: 0em;
+}
+h1,p{
+
+    font-size: 20px;
 }
 
 

@@ -230,10 +230,14 @@ margin-left: -5em;
 }
 .form{
 
-    margin-top: 400em;
+    margin-top: 300em;
     margin-left: 0em;
+    width: 90em;
+    height: 90em;
 
 }
-
+textarea{
+    width: 90em;
+}
 
 }

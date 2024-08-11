@@ -266,11 +266,14 @@ textarea{
     height: 2.5em;
 }
 #enviar{
-  margin-left: -5em;
+  margin-left: -8em;
     background-color: green;
     width: 15em;
 }
 #contactanos{
     font-size: 50px;
+}
+footer{
+    width: 90em;
 }
 }

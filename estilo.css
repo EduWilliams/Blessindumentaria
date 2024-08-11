@@ -268,7 +268,7 @@ textarea{
     height: 2.5em;
 }
 #enviar{
-  margin-left: -8em;
+  margin-left: -7em;
     background-color: green;
     width: 15em;
 }
@@ -277,6 +277,6 @@ textarea{
 }
 footer{
     width: 90em;
-    height: 20em;
+    height: 25em;
 }
 }

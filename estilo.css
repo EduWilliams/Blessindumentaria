@@ -249,7 +249,7 @@ margin-left: -5em;
 textarea{
     margin-top: 1em;
     width: 26em;
-    margin-left: -10em;
+    margin-left: -12em;
 }
 #margen{
     
@@ -263,7 +263,7 @@ textarea{
     margin-left: 5em;
 }
 #input{
-
+    border-radius: 10px;
     width: 26em;
     height: 2.5em;
 }
